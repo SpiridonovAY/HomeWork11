@@ -1,0 +1,23 @@
+{
+  "name": "homework11",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiridonovAY/HomeWork11.git"
+  },
+  "author": "SpiridonovAY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpiridonovAY/HomeWork11/issues"
+  },
+  "homepage": "https://github.com/SpiridonovAY/HomeWork11#readme",
+  "description": "",
+  "dependencies": {
+    "websocket": "^1.0.35",
+    "ws": "^8.18.0"
+  }
+}
